@@ -1,2 +1,2 @@
 # CNN
-Convolution Neutral Networks
+Convolutional Neutral Networks
